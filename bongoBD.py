@@ -25,7 +25,7 @@ def print_depth(a):
                 print(key + " " + str(d))
                 # testList.append(str(d)) #uncomment this line for testing test_bongo.py
     depth(a, d)
-    return testList #uncomment this line for testing test_bongo.py
+    # return testList #uncomment this line for testing test_bongo.py
 print_depth(a)
 
 
